@@ -3,7 +3,8 @@
 
 <!--Night Owl image-->
 <!--Header Name-->
-# <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Sobre Mi! 
+About Me 
+<br />
 *Digital (Developer / Programmer)*
 <br /> 
 
@@ -12,9 +13,8 @@
 
 - ✨ Student of life :)
 - 🌱 I’m currently learning many things, I believe that everyday is a learning opportunity.
-- 🏙 A lifetime insider and Mentor at [Exercism]().
 - ❤ Contributing to Open Source.
-- 💻 Visit my [Portfolio]() for more details about me.
+
 
 ---
 <br />
